@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.demobitrise">
 
+    <uses-permission android:name="android.permission.READ_LOGS"/>
 
     <application
         android:allowBackup="true"
